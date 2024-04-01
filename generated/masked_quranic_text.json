@@ -1,0 +1,4357 @@
+[
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((________ ذَاتِ الْوَقُودِ)) to complete the full verse. This text is from Surah البروج (Chapter 85, Verse 5)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "النَّارِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَمَا نَقَمُوا مِنْهُمْ إِلَّا ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "أَنْ يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ الْحَمِيدِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((________ أَصْحَابُ الْأُخْدُودِ)) to complete the full verse. This text is from Surah البروج (Chapter 85, Verse 4)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "قُتِلَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَلَا ________ لِمَنْ أَذِنَ لَهُ ۚ حَتَّىٰ إِذَا فُزِّعَ عَنْ قُلُوبِهِمْ قَالُوا مَاذَا قَالَ رَبُّكُمْ ۖ قَالُوا الْحَقَّ ۖ وَهُوَ الْعَلِيُّ الْكَبِيرُ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "تَنْفَعُ الشَّفَاعَةُ عِنْدَهُ إِلَّا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قُلْ أَرُونِيَ الَّذِينَ أَلْحَقْتُمْ بِهِ ________ كَلَّا ۚ بَلْ هُوَ اللَّهُ الْعَزِيزُ الْحَكِيمُ)) to complete the full verse. This text is from Surah سبإ (Chapter 34, Verse 27)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "شُرَكَاءَ ۖ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَمَا أَرْسَلْنَاكَ إِلَّا كَافَّةً ________ يَعْلَمُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "لِلنَّاسِ بَشِيرًا وَنَذِيرًا وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَلَمَنِ ________ ظُلْمِهِ فَأُولَٰئِكَ مَا عَلَيْهِمْ مِنْ سَبِيلٍ)) to complete the full verse. This text is from Surah الشورى (Chapter 42, Verse 41)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "انْتَصَرَ بَعْدَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَيَسْتَجِيبُ ________ وَعَمِلُوا الصَّالِحَاتِ وَيَزِيدُهُمْ مِنْ فَضْلِهِ ۚ وَالْكَافِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "الَّذِينَ آمَنُوا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَمَا أَنْتُمْ بِمُعْجِزِينَ فِي الْأَرْضِ ۖ وَمَا لَكُمْ مِنْ دُونِ اللَّهِ مِنْ وَلِيٍّ ________)) to complete the full verse. This text is from Surah الشورى (Chapter 42, Verse 31)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَلَا نَصِيرٍ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَىٰ وَاسْتَكْبَرَ وَكَانَ ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "مِنَ الْكَافِرِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَمَثَلُ الَّذِينَ كَفَرُوا كَمَثَلِ الَّذِي يَنْعِقُ بِمَا لَا يَسْمَعُ إِلَّا دُعَاءً وَنِدَاءً ۚ صُمٌّ بُكْمٌ عُمْيٌ ________ يَعْقِلُونَ)) to complete the full verse. This text is from Surah البقرة (Chapter 2, Verse 171)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "فَهُمْ لَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ لِلَّهِ ۖ فَإِنِ انْتَهَوْا فَلَا عُدْوَانَ إِلَّا عَلَى ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "الظَّالِمِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا إِلَىٰ ________ إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِئُونَ)) to complete the full verse. This text is from Surah البقرة (Chapter 2, Verse 14)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "شَيَاطِينِهِمْ قَالُوا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((أَيَّامًا مَعْدُودَاتٍ ۚ فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِنْ أَيَّامٍ أُخَرَ ۚ وَعَلَى الَّذِينَ يُطِيقُونَهُ فِدْيَةٌ ________ خَيْرًا فَهُوَ خَيْرٌ لَهُ ۚ وَأَنْ تَصُومُوا خَيْرٌ لَكُمْ ۖ إِنْ كُنْتُمْ تَعْلَمُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "طَعَامُ مِسْكِينٍ ۖ فَمَنْ تَطَوَّعَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَقَالُوا كُونُوا ________ ۖ وَمَا كَانَ مِنَ الْمُشْرِكِينَ)) to complete the full verse. This text is from Surah البقرة (Chapter 2, Verse 135)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "هُودًا أَوْ نَصَارَىٰ تَهْتَدُوا ۗ قُلْ بَلْ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنْزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ ۚ وَمَا هُمْ بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا ________ وَلَقَدْ عَلِمُوا لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ ۚ وَلَبِئْسَ مَا شَرَوْا بِهِ أَنْفُسَهُمْ ۚ لَوْ كَانُوا يَعْلَمُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "يَنْفَعُهُمْ ۚ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنْزِيرِ وَمَا أُهِلَّ بِهِ لِغَيْرِ اللَّهِ ۖ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَا إِثْمَ ________ ۚ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ)) to complete the full verse. This text is from Surah البقرة (Chapter 2, Verse 173)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "عَلَيْهِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((أَلَمْ تَرَ إِلَى الَّذِي حَاجَّ إِبْرَاهِيمَ فِي رَبِّهِ أَنْ آتَاهُ اللَّهُ الْمُلْكَ إِذْ قَالَ إِبْرَاهِيمُ رَبِّيَ الَّذِي يُحْيِي وَيُمِيتُ قَالَ أَنَا أُحْيِي وَأُمِيتُ ۖ قَالَ إِبْرَاهِيمُ فَإِنَّ اللَّهَ يَأْتِي بِالشَّمْسِ مِنَ الْمَشْرِقِ فَأْتِ بِهَا مِنَ الْمَغْرِبِ فَبُهِتَ ________ الظَّالِمِينَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "الَّذِي كَفَرَ ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ________ الْخَاشِعِينَ)) to complete the full verse. This text is from Surah البقرة (Chapter 2, Verse 45)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((الطَّلَاقُ مَرَّتَانِ ۖ فَإِمْسَاكٌ بِمَعْرُوفٍ أَوْ تَسْرِيحٌ بِإِحْسَانٍ ۗ وَلَا يَحِلُّ لَكُمْ أَنْ تَأْخُذُوا مِمَّا آتَيْتُمُوهُنَّ شَيْئًا إِلَّا أَنْ يَخَافَا أَلَّا يُقِيمَا حُدُودَ اللَّهِ ________ تَعْتَدُوهَا ۚ وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "ۖ فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ اللَّهِ فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا افْتَدَتْ بِهِ ۗ تِلْكَ حُدُودُ اللَّهِ فَلَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَلَا تَجْعَلُوا اللَّهَ ________ النَّاسِ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ)) to complete the full verse. This text is from Surah البقرة (Chapter 2, Verse 224)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "عُرْضَةً لِأَيْمَانِكُمْ أَنْ تَبَرُّوا وَتَتَّقُوا وَتُصْلِحُوا بَيْنَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((الَّذِي جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا وَالسَّمَاءَ بِنَاءً وَأَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَكُمْ ________ أَنْدَادًا وَأَنْتُمْ تَعْلَمُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "ۖ فَلَا تَجْعَلُوا لِلَّهِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((________ نِعْمَتِي عَلَيْكُمْ وَلَعَلَّكُمْ تَهْتَدُونَ)) to complete the full verse. This text is from Surah البقرة (Chapter 2, Verse 150)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ ۚ وَحَيْثُ مَا كُنْتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ إِلَّا الَّذِينَ ظَلَمُوا مِنْهُمْ فَلَا تَخْشَوْهُمْ وَاخْشَوْنِي وَلِأُتِمَّ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((مَنْ كَانَ عَدُوًّا لِلَّهِ وَمَلَائِكَتِهِ وَرُسُلِهِ وَجِبْرِيلَ وَمِيكَالَ فَإِنَّ اللَّهَ ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "عَدُوٌّ لِلْكَافِرِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَمَا أَنْفَقْتُمْ مِنْ نَفَقَةٍ ________ مِنْ نَذْرٍ فَإِنَّ اللَّهَ يَعْلَمُهُ ۗ وَمَا لِلظَّالِمِينَ مِنْ أَنْصَارٍ)) to complete the full verse. This text is from Surah البقرة (Chapter 2, Verse 270)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "أَوْ نَذَرْتُمْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((كَذَٰلِكَ مَا أَتَى الَّذِينَ ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "مِنْ قَبْلِهِمْ مِنْ رَسُولٍ إِلَّا قَالُوا سَاحِرٌ أَوْ مَجْنُونٌ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((فَوَيْلٌ لِلَّذِينَ كَفَرُوا مِنْ يَوْمِهِمُ الَّذِي ________)) to complete the full verse. This text is from Surah الذاريات (Chapter 51, Verse 60)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "يُوعَدُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((ذُوقُوا ________ بِهِ تَسْتَعْجِلُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "فِتْنَتَكُمْ هَٰذَا الَّذِي كُنْتُمْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَقَالَ إِنِّي ________ إِلَىٰ رَبِّي سَيَهْدِينِ)) to complete the full verse. This text is from Surah الصافات (Chapter 37, Verse 99)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "ذَاهِبٌ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((أَمْ خَلَقْنَا الْمَلَائِكَةَ إِنَاثًا ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَهُمْ شَاهِدُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((يُطَافُ ________ مَعِينٍ)) to complete the full verse. This text is from Surah الصافات (Chapter 37, Verse 45)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "عَلَيْهِمْ بِكَأْسٍ مِنْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((فَكَفَرُوا بِهِ ۖ فَسَوْفَ ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "يَعْلَمُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((أَلَا إِنَّهُمْ ________ لَيَقُولُونَ)) to complete the full verse. This text is from Surah الصافات (Chapter 37, Verse 151)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "مِنْ إِفْكِهِمْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((فَانْظُرْ ________ الْمُنْذَرِينَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "كَيْفَ كَانَ عَاقِبَةُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((________ إِلْ يَاسِينَ)) to complete the full verse. This text is from Surah الصافات (Chapter 37, Verse 130)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "سَلَامٌ عَلَىٰ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قُلْ هَلُمَّ شُهَدَاءَكُمُ الَّذِينَ يَشْهَدُونَ أَنَّ اللَّهَ حَرَّمَ هَٰذَا ۖ ________ يَعْدِلُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "فَإِنْ شَهِدُوا فَلَا تَشْهَدْ مَعَهُمْ ۚ وَلَا تَتَّبِعْ أَهْوَاءَ الَّذِينَ كَذَّبُوا بِآيَاتِنَا وَالَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ وَهُمْ بِرَبِّهِمْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((________ الْأَرْضِ ثُمَّ انْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ)) to complete the full verse. This text is from Surah الأنعام (Chapter 6, Verse 11)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "قُلْ سِيرُوا فِي"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَكَذَٰلِكَ جَعَلْنَا فِي كُلِّ قَرْيَةٍ أَكَابِرَ ________ لِيَمْكُرُوا فِيهَا ۖ وَمَا يَمْكُرُونَ إِلَّا بِأَنْفُسِهِمْ وَمَا يَشْعُرُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "مُجْرِمِيهَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَكَذَٰلِكَ فَتَنَّا بَعْضَهُمْ بِبَعْضٍ لِيَقُولُوا أَهَٰؤُلَاءِ مَنَّ اللَّهُ عَلَيْهِمْ مِنْ بَيْنِنَا ۗ أَلَيْسَ اللَّهُ بِأَعْلَمَ ________)) to complete the full verse. This text is from Surah الأنعام (Chapter 6, Verse 53)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "بِالشَّاكِرِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قُلْ أَيُّ شَيْءٍ أَكْبَرُ شَهَادَةً ۖ قُلِ اللَّهُ ۖ شَهِيدٌ بَيْنِي وَبَيْنَكُمْ ۚ وَأُوحِيَ إِلَيَّ هَٰذَا الْقُرْآنُ لِأُنْذِرَكُمْ بِهِ وَمَنْ بَلَغَ ۚ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ اللَّهِ آلِهَةً أُخْرَىٰ ۚ قُلْ لَا أَشْهَدُ ۚ قُلْ إِنَّمَا هُوَ إِلَٰهٌ وَاحِدٌ وَإِنَّنِي ________ تُشْرِكُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "بَرِيءٌ مِمَّا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((إِنِّي وَجَّهْتُ ________ وَالْأَرْضَ حَنِيفًا ۖ وَمَا أَنَا مِنَ الْمُشْرِكِينَ)) to complete the full verse. This text is from Surah الأنعام (Chapter 6, Verse 79)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قُلْ أَرَأَيْتُمْ إِنْ أَخَذَ اللَّهُ سَمْعَكُمْ وَأَبْصَارَكُمْ وَخَتَمَ ________ غَيْرُ اللَّهِ يَأْتِيكُمْ بِهِ ۗ انْظُرْ كَيْفَ نُصَرِّفُ الْآيَاتِ ثُمَّ هُمْ يَصْدِفُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "عَلَىٰ قُلُوبِكُمْ مَنْ إِلَٰهٌ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((________ نَقُولُ لِلَّذِينَ أَشْرَكُوا أَيْنَ شُرَكَاؤُكُمُ الَّذِينَ كُنْتُمْ تَزْعُمُونَ)) to complete the full verse. This text is from Surah الأنعام (Chapter 6, Verse 22)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَيَوْمَ نَحْشُرُهُمْ جَمِيعًا ثُمَّ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((فَلَمَّا نَسُوا مَا ذُكِّرُوا بِهِ فَتَحْنَا عَلَيْهِمْ أَبْوَابَ كُلِّ شَيْءٍ حَتَّىٰ إِذَا فَرِحُوا بِمَا أُوتُوا أَخَذْنَاهُمْ بَغْتَةً ________ مُبْلِسُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "فَإِذَا هُمْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَلَا تَقْرَبُوا مَالَ الْيَتِيمِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ حَتَّىٰ ________ أَوْفُوا ۚ ذَٰلِكُمْ وَصَّاكُمْ بِهِ لَعَلَّكُمْ تَذَكَّرُونَ)) to complete the full verse. This text is from Surah الأنعام (Chapter 6, Verse 152)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "يَبْلُغَ أَشُدَّهُ ۖ وَأَوْفُوا الْكَيْلَ وَالْمِيزَانَ بِالْقِسْطِ ۖ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَإِذَا قُلْتُمْ فَاعْدِلُوا وَلَوْ كَانَ ذَا قُرْبَىٰ ۖ وَبِعَهْدِ اللَّهِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((ثُمَّ لَمْ تَكُنْ فِتْنَتُهُمْ إِلَّا ________ كُنَّا مُشْرِكِينَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "أَنْ قَالُوا وَاللَّهِ رَبِّنَا مَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قَالَ أَرَأَيْتَكَ هَٰذَا الَّذِي كَرَّمْتَ عَلَيَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ الْقِيَامَةِ لَأَحْتَنِكَنَّ ________ قَلِيلًا)) to complete the full verse. This text is from Surah الإسراء (Chapter 17, Verse 62)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "ذُرِّيَّتَهُ إِلَّا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((أَوْ يَكُونَ لَكَ بَيْتٌ مِنْ زُخْرُفٍ أَوْ تَرْقَىٰ فِي السَّمَاءِ وَلَنْ نُؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَقْرَؤُهُ ۗ قُلْ سُبْحَانَ رَبِّي هَلْ كُنْتُ إِلَّا ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "بَشَرًا رَسُولًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((سُبْحَانَهُ ________ كَبِيرًا)) to complete the full verse. This text is from Surah الإسراء (Chapter 17, Verse 43)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَتَعَالَىٰ عَمَّا يَقُولُونَ عُلُوًّا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَمَنْ كَانَ فِي هَٰذِهِ أَعْمَىٰ فَهُوَ فِي الْآخِرَةِ أَعْمَىٰ وَأَضَلُّ ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "سَبِيلًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قُلْ آمِنُوا بِهِ أَوْ لَا تُؤْمِنُوا ۚ إِنَّ الَّذِينَ ________ إِذَا يُتْلَىٰ عَلَيْهِمْ يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًا)) to complete the full verse. This text is from Surah الإسراء (Chapter 17, Verse 107)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "أُوتُوا الْعِلْمَ مِنْ قَبْلِهِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ ________ شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِنْ لَا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُ كَانَ حَلِيمًا غَفُورًا)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَمَنْ فِيهِنَّ ۚ وَإِنْ مِنْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَآتِ ذَا الْقُرْبَىٰ حَقَّهُ وَالْمِسْكِينَ ________ السَّبِيلِ وَلَا تُبَذِّرْ تَبْذِيرًا)) to complete the full verse. This text is from Surah الإسراء (Chapter 17, Verse 26)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَابْنَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ ________ مِنْ آيَاتِنَا ۚ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَاللَّهُ ________ اللَّهُ مَا يَشَاءُ ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ)) to complete the full verse. This text is from Surah النور (Chapter 24, Verse 45)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "خَلَقَ كُلَّ دَابَّةٍ مِنْ مَاءٍ ۖ فَمِنْهُمْ مَنْ يَمْشِي عَلَىٰ بَطْنِهِ وَمِنْهُمْ مَنْ يَمْشِي عَلَىٰ رِجْلَيْنِ وَمِنْهُمْ مَنْ يَمْشِي عَلَىٰ أَرْبَعٍ ۚ يَخْلُقُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((إِنَّ الَّذِينَ جَاءُوا بِالْإِفْكِ عُصْبَةٌ مِنْكُمْ ۚ لَا تَحْسَبُوهُ شَرًّا ________ عَذَابٌ عَظِيمٌ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "لَكُمْ ۖ بَلْ هُوَ خَيْرٌ لَكُمْ ۚ لِكُلِّ امْرِئٍ مِنْهُمْ مَا اكْتَسَبَ مِنَ الْإِثْمِ ۚ وَالَّذِي تَوَلَّىٰ كِبْرَهُ مِنْهُمْ لَهُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((إِنَّ وَلِيِّيَ اللَّهُ الَّذِي نَزَّلَ ________ ۖ وَهُوَ يَتَوَلَّى الصَّالِحِينَ)) to complete the full verse. This text is from Surah الأعراف (Chapter 7, Verse 196)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "الْكِتَابَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((فَأَرْسَلْنَا عَلَيْهِمُ الطُّوفَانَ وَالْجَرَادَ وَالْقُمَّلَ وَالضَّفَادِعَ وَالدَّمَ آيَاتٍ ________ وَكَانُوا قَوْمًا مُجْرِمِينَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "مُفَصَّلَاتٍ فَاسْتَكْبَرُوا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قَدِ افْتَرَيْنَا عَلَى اللَّهِ كَذِبًا إِنْ عُدْنَا فِي مِلَّتِكُمْ بَعْدَ إِذْ نَجَّانَا اللَّهُ مِنْهَا ۚ وَمَا يَكُونُ لَنَا أَنْ نَعُودَ فِيهَا إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّنَا ۚ وَسِعَ رَبُّنَا كُلَّ شَيْءٍ عِلْمًا ۚ عَلَى اللَّهِ تَوَكَّلْنَا ۚ رَبَّنَا افْتَحْ ________ خَيْرُ الْفَاتِحِينَ)) to complete the full verse. This text is from Surah الأعراف (Chapter 7, Verse 89)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ وَأَنْتَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَمِمَّنْ خَلَقْنَا ________ يَعْدِلُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "أُمَّةٌ يَهْدُونَ بِالْحَقِّ وَبِهِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((فَكَذَّبُوهُ فَأَنْجَيْنَاهُ ________ كَذَّبُوا بِآيَاتِنَا ۚ إِنَّهُمْ كَانُوا قَوْمًا عَمِينَ)) to complete the full verse. This text is from Surah الأعراف (Chapter 7, Verse 64)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَالَّذِينَ مَعَهُ فِي الْفُلْكِ وَأَغْرَقْنَا الَّذِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَلَقَدْ أَخَذْنَا ________ يَذَّكَّرُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "آلَ فِرْعَوْنَ بِالسِّنِينَ وَنَقْصٍ مِنَ الثَّمَرَاتِ لَعَلَّهُمْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((أُبَلِّغُكُمْ رِسَالَاتِ رَبِّي ________ نَاصِحٌ أَمِينٌ)) to complete the full verse. This text is from Surah الأعراف (Chapter 7, Verse 68)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَأَنَا لَكُمْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قَالَ الَّذِينَ اسْتَكْبَرُوا ________ بِالَّذِي آمَنْتُمْ بِهِ كَافِرُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "إِنَّا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَالَّذِينَ يُمَسِّكُونَ بِالْكِتَابِ وَأَقَامُوا الصَّلَاةَ ________ أَجْرَ الْمُصْلِحِينَ)) to complete the full verse. This text is from Surah الأعراف (Chapter 7, Verse 170)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "إِنَّا لَا نُضِيعُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((فَوَقَعَ الْحَقُّ وَبَطَلَ مَا كَانُوا ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "يَعْمَلُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((اتَّبِعُوا مَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ وَلَا تَتَّبِعُوا مِنْ دُونِهِ ________ ۗ قَلِيلًا مَا تَذَكَّرُونَ)) to complete the full verse. This text is from Surah الأعراف (Chapter 7, Verse 3)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "أَوْلِيَاءَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَجَاءَ السَّحَرَةُ فِرْعَوْنَ قَالُوا إِنَّ لَنَا لَأَجْرًا إِنْ كُنَّا نَحْنُ ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "الْغَالِبِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قَالَ رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ وَمَا بَيْنَهُمَا ۖ ________)) to complete the full verse. This text is from Surah الشعراء (Chapter 26, Verse 28)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "إِنْ كُنْتُمْ تَعْقِلُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قَالَ رَبِّي أَعْلَمُ بِمَا ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "تَعْمَلُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((فَأْتِيَا فِرْعَوْنَ فَقُولَا إِنَّا ________)) to complete the full verse. This text is from Surah الشعراء (Chapter 26, Verse 16)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "رَسُولُ رَبِّ الْعَالَمِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((إِذْ ________ لَهُمْ أَخُوهُمْ هُودٌ أَلَا تَتَّقُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "قَالَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَالَّذِي يُمِيتُنِي ثُمَّ ________)) to complete the full verse. This text is from Surah الشعراء (Chapter 26, Verse 81)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "يُحْيِينِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَمَا نَحْنُ ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "بِمُعَذَّبِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((فَأَتْبَعُوهُمْ ________)) to complete the full verse. This text is from Surah الشعراء (Chapter 26, Verse 60)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "مُشْرِقِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((إِذْ نُسَوِّيكُمْ بِرَبِّ ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "الْعَالَمِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَلَا تُخْزِنِي يَوْمَ ________)) to complete the full verse. This text is from Surah الشعراء (Chapter 26, Verse 87)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "يُبْعَثُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((الَّذِي خَلَقَنِي ________ يَهْدِينِ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "فَهُوَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((نَزَلَ بِهِ الرُّوحُ ________)) to complete the full verse. This text is from Surah الشعراء (Chapter 26, Verse 193)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "الْأَمِينُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((أَمَّنْ جَعَلَ الْأَرْضَ قَرَارًا وَجَعَلَ خِلَالَهَا أَنْهَارًا وَجَعَلَ لَهَا رَوَاسِيَ ________ أَكْثَرُهُمْ لَا يَعْلَمُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَجَعَلَ بَيْنَ الْبَحْرَيْنِ حَاجِزًا ۗ أَإِلَٰهٌ مَعَ اللَّهِ ۚ بَلْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((________ ثُمَّ تَوَلَّ عَنْهُمْ فَانْظُرْ مَاذَا يَرْجِعُونَ)) to complete the full verse. This text is from Surah النمل (Chapter 27, Verse 28)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "اذْهَبْ بِكِتَابِي هَٰذَا فَأَلْقِهْ إِلَيْهِمْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَكَانَ فِي الْمَدِينَةِ ________ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "تِسْعَةُ رَهْطٍ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((________ الَّذِي تَسْتَعْجِلُونَ)) to complete the full verse. This text is from Surah النمل (Chapter 27, Verse 72)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "قُلْ عَسَىٰ أَنْ يَكُونَ رَدِفَ لَكُمْ بَعْضُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((إِلَّا ________ أَنْ يَكُونَ مَعَ السَّاجِدِينَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "إِبْلِيسَ أَبَىٰ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((إِنَّ فِي ذَٰلِكَ ________ لِلْمُؤْمِنِينَ)) to complete the full verse. This text is from Surah الحجر (Chapter 15, Verse 77)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "لَآيَةً"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَإِنْ مِنْ شَيْءٍ إِلَّا عِنْدَنَا خَزَائِنُهُ ________ مَعْلُومٍ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَمَا نُنَزِّلُهُ إِلَّا بِقَدَرٍ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قَالَ إِنَّ ________ تَفْضَحُونِ)) to complete the full verse. This text is from Surah الحجر (Chapter 15, Verse 68)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "هَٰؤُلَاءِ ضَيْفِي فَلَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((لَا ________ ۖ وَقَدْ خَلَتْ سُنَّةُ الْأَوَّلِينَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "يُؤْمِنُونَ بِهِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قَالَ هَٰؤُلَاءِ بَنَاتِي إِنْ كُنْتُمْ ________)) to complete the full verse. This text is from Surah الحجر (Chapter 15, Verse 71)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "فَاعِلِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((لَعَمْرُكَ ________ سَكْرَتِهِمْ يَعْمَهُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "إِنَّهُمْ لَفِي"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((سُنَّةَ اللَّهِ الَّتِي قَدْ ________ ۖ وَلَنْ تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا)) to complete the full verse. This text is from Surah الفتح (Chapter 48, Verse 23)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "خَلَتْ مِنْ قَبْلُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِنَّا فَتَحْنَا لَكَ فَتْحًا ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "مُبِينًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((إِنَّا أَرْسَلْنَاكَ شَاهِدًا وَمُبَشِّرًا ________)) to complete the full verse. This text is from Surah الفتح (Chapter 48, Verse 8)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَنَذِيرًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ ________ الصَّالِحِينَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "عَنِ الْمُنْكَرِ وَيُسَارِعُونَ فِي الْخَيْرَاتِ وَأُولَٰئِكَ مِنَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَيُعَلِّمُهُ الْكِتَابَ وَالْحِكْمَةَ ________ وَالْإِنْجِيلَ)) to complete the full verse. This text is from Surah آل عمران (Chapter 3, Verse 48)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَالتَّوْرَاةَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قَدْ كَانَ لَكُمْ آيَةٌ فِي فِئَتَيْنِ الْتَقَتَا ۖ فِئَةٌ تُقَاتِلُ فِي سَبِيلِ اللَّهِ وَأُخْرَىٰ كَافِرَةٌ يَرَوْنَهُمْ مِثْلَيْهِمْ رَأْيَ الْعَيْنِ ۚ ________ يَشَاءُ ۗ إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِأُولِي الْأَبْصَارِ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَاللَّهُ يُؤَيِّدُ بِنَصْرِهِ مَنْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ الْقِيَامَةِ ۖ فَمَنْ زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ الْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا ________)) to complete the full verse. This text is from Surah آل عمران (Chapter 3, Verse 185)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ الْغُرُورِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((________ وَارْكَعِي مَعَ الرَّاكِعِينَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "يَا مَرْيَمُ اقْنُتِي لِرَبِّكِ وَاسْجُدِي"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللَّهُ ________ وَاللَّهُ غَفُورٌ رَحِيمٌ)) to complete the full verse. This text is from Surah آل عمران (Chapter 3, Verse 31)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((الصَّابِرِينَ وَالصَّادِقِينَ ________ وَالْمُسْتَغْفِرِينَ بِالْأَسْحَارِ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَالْقَانِتِينَ وَالْمُنْفِقِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((يَا ________ الْأَرْضِ أَوْ كَانُوا غُزًّى لَوْ كَانُوا عِنْدَنَا مَا مَاتُوا وَمَا قُتِلُوا لِيَجْعَلَ اللَّهُ ذَٰلِكَ حَسْرَةً فِي قُلُوبِهِمْ ۗ وَاللَّهُ يُحْيِي وَيُمِيتُ ۗ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ)) to complete the full verse. This text is from Surah آل عمران (Chapter 3, Verse 156)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "أَيُّهَا الَّذِينَ آمَنُوا لَا تَكُونُوا كَالَّذِينَ كَفَرُوا وَقَالُوا لِإِخْوَانِهِمْ إِذَا ضَرَبُوا فِي"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((ذَٰلِكَ مِنْ أَنْبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ ۚ وَمَا كُنْتَ ________ مَرْيَمَ وَمَا كُنْتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَامَهُمْ أَيُّهُمْ يَكْفُلُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا الرِّبَا أَضْعَافًا مُضَاعَفَةً ۖ وَاتَّقُوا ________ تُفْلِحُونَ)) to complete the full verse. This text is from Surah آل عمران (Chapter 3, Verse 130)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "اللَّهَ لَعَلَّكُمْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَإِذْ ________ مَقَاعِدَ لِلْقِتَالِ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "غَدَوْتَ مِنْ أَهْلِكَ تُبَوِّئُ الْمُؤْمِنِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَلَقَدْ نَصَرَكُمُ اللَّهُ بِبَدْرٍ وَأَنْتُمْ أَذِلَّةٌ ۖ فَاتَّقُوا اللَّهَ ________)) to complete the full verse. This text is from Surah آل عمران (Chapter 3, Verse 123)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "لَعَلَّكُمْ تَشْكُرُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَإِذْ أَخَذَ اللَّهُ مِيثَاقَ الَّذِينَ أُوتُوا الْكِتَابَ لَتُبَيِّنُنَّهُ ________ فَنَبَذُوهُ وَرَاءَ ظُهُورِهِمْ وَاشْتَرَوْا بِهِ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا يَشْتَرُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "لِلنَّاسِ وَلَا تَكْتُمُونَهُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((الَّذِينَ قَالُوا إِنَّ اللَّهَ عَهِدَ إِلَيْنَا أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍ تَأْكُلُهُ ________ قَتَلْتُمُوهُمْ إِنْ كُنْتُمْ صَادِقِينَ)) to complete the full verse. This text is from Surah آل عمران (Chapter 3, Verse 183)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "النَّارُ ۗ قُلْ قَدْ جَاءَكُمْ رُسُلٌ مِنْ قَبْلِي بِالْبَيِّنَاتِ وَبِالَّذِي قُلْتُمْ فَلِمَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((إِنْ يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ ________ ۗ وَاللَّهُ لَا يُحِبُّ الظَّالِمِينَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "الْقَوْمَ قَرْحٌ مِثْلُهُ ۚ وَتِلْكَ الْأَيَّامُ نُدَاوِلُهَا بَيْنَ النَّاسِ وَلِيَعْلَمَ اللَّهُ الَّذِينَ آمَنُوا وَيَتَّخِذَ مِنْكُمْ شُهَدَاءَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَنْ يَكْفِيَكُمْ أَنْ ________ آلَافٍ مِنَ الْمَلَائِكَةِ مُنْزَلِينَ)) to complete the full verse. This text is from Surah آل عمران (Chapter 3, Verse 124)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "يُمِدَّكُمْ رَبُّكُمْ بِثَلَاثَةِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((إِنَّ الَّذِينَ يَخْشَوْنَ ________ وَأَجْرٌ كَبِيرٌ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "رَبَّهُمْ بِالْغَيْبِ لَهُمْ مَغْفِرَةٌ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قُلْ إِنَّمَا الْعِلْمُ عِنْدَ اللَّهِ ________ مُبِينٌ)) to complete the full verse. This text is from Surah الملك (Chapter 67, Verse 26)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَإِنَّمَا أَنَا نَذِيرٌ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ ________ وَمِنْ آنَاءِ اللَّيْلِ فَسَبِّحْ وَأَطْرَافَ النَّهَارِ لَعَلَّكَ تَرْضَىٰ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَا ۖ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قَالَ مَوْعِدُكُمْ يَوْمُ الزِّينَةِ وَأَنْ يُحْشَرَ ________ ضُحًى)) to complete the full verse. This text is from Surah طه (Chapter 20, Verse 59)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "النَّاسُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قَالَ يَا هَارُونُ ________ مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوا)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "مَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((فَلَنَأْتِيَنَّكَ بِسِحْرٍ ________)) to complete the full verse. This text is from Surah طه (Chapter 20, Verse 58)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "مِثْلِهِ فَاجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَا نُخْلِفُهُ نَحْنُ وَلَا أَنْتَ مَكَانًا سُوًى"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((الرَّحْمَٰنُ عَلَى ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "الْعَرْشِ اسْتَوَىٰ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((كُلُوا وَارْعَوْا أَنْعَامَكُمْ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِأُولِي ________)) to complete the full verse. This text is from Surah طه (Chapter 20, Verse 54)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "النُّهَىٰ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((فَقُلْنَا يَا آدَمُ إِنَّ هَٰذَا عَدُوٌّ ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "لَكَ وَلِزَوْجِكَ فَلَا يُخْرِجَنَّكُمَا مِنَ الْجَنَّةِ فَتَشْقَىٰ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((________ يَمْلِكُ لَهُمْ ضَرًّا وَلَا نَفْعًا)) to complete the full verse. This text is from Surah طه (Chapter 20, Verse 89)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًا وَلَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قَالَ بَصُرْتُ بِمَا لَمْ يَبْصُرُوا بِهِ فَقَبَضْتُ قَبْضَةً مِنْ أَثَرِ الرَّسُولِ فَنَبَذْتُهَا ________ نَفْسِي)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَكَذَٰلِكَ سَوَّلَتْ لِي"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((________ رَأَوْا بَأْسَنَا قَالُوا آمَنَّا بِاللَّهِ وَحْدَهُ وَكَفَرْنَا بِمَا كُنَّا بِهِ مُشْرِكِينَ)) to complete the full verse. This text is from Surah غافر (Chapter 40, Verse 84)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "فَلَمَّا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((تَنْزِيلُ الْكِتَابِ ________ الْعَزِيزِ الْعَلِيمِ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "مِنَ اللَّهِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((إِنَّ السَّاعَةَ لَآتِيَةٌ لَا رَيْبَ فِيهَا ________)) to complete the full verse. This text is from Surah غافر (Chapter 40, Verse 59)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يُؤْمِنُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((غَافِرِ الذَّنْبِ وَقَابِلِ التَّوْبِ شَدِيدِ الْعِقَابِ ذِي الطَّوْلِ ۖ لَا ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "إِلَٰهَ إِلَّا هُوَ ۖ إِلَيْهِ الْمَصِيرُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((مَنْ عَمِلَ سَيِّئَةً فَلَا يُجْزَىٰ إِلَّا مِثْلَهَا ۖ وَمَنْ عَمِلَ صَالِحًا مِنْ ذَكَرٍ أَوْ ________ فِيهَا بِغَيْرِ حِسَابٍ)) to complete the full verse. This text is from Surah غافر (Chapter 40, Verse 40)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "أُنْثَىٰ وَهُوَ مُؤْمِنٌ فَأُولَٰئِكَ يَدْخُلُونَ الْجَنَّةَ يُرْزَقُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((________ يُؤْفَكُ الَّذِينَ كَانُوا بِآيَاتِ اللَّهِ يَجْحَدُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "كَذَٰلِكَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَإِذَا غَشِيَهُمْ ________ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ فَمِنْهُمْ مُقْتَصِدٌ ۚ وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا كُلُّ خَتَّارٍ كَفُورٍ)) to complete the full verse. This text is from Surah لقمان (Chapter 31, Verse 32)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "مَوْجٌ كَالظُّلَلِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ________)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "ۖ إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَمِنَ النَّاسِ مَنْ يَشْتَرِي لَهْوَ الْحَدِيثِ لِيُضِلَّ عَنْ سَبِيلِ اللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُوًا ۚ أُولَٰئِكَ لَهُمْ عَذَابٌ ________)) to complete the full verse. This text is from Surah لقمان (Chapter 31, Verse 6)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "مُهِينٌ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((خَالِدِينَ فِيهَا ۖ وَعْدَ اللَّهِ حَقًّا ________ الْحَكِيمُ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "ۚ وَهُوَ الْعَزِيزُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((إِنْ تُقْرِضُوا اللَّهَ قَرْضًا حَسَنًا يُضَاعِفْهُ لَكُمْ وَيَغْفِرْ ________ ۚ وَاللَّهُ شَكُورٌ حَلِيمٌ)) to complete the full verse. This text is from Surah التغابن (Chapter 64, Verse 17)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "لَكُمْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((يَعْلَمُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ ________ وَاللَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "ۚ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((تِلْكَ الْجَنَّةُ الَّتِي نُورِثُ مِنْ عِبَادِنَا مَنْ ________ تَقِيًّا)) to complete the full verse. This text is from Surah مريم (Chapter 19, Verse 63)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "كَانَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَالسَّلَامُ عَلَيَّ يَوْمَ وُلِدْتُ وَيَوْمَ أَمُوتُ وَيَوْمَ ________ حَيًّا)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "أُبْعَثُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((________ جِئْتُمْ شَيْئًا إِدًّا)) to complete the full verse. This text is from Surah مريم (Chapter 19, Verse 89)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "لَقَدْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَإِنِّي خِفْتُ الْمَوَالِيَ مِنْ وَرَائِي وَكَانَتِ امْرَأَتِي ________ لِي مِنْ لَدُنْكَ وَلِيًّا)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "عَاقِرًا فَهَبْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((فَأَجَاءَهَا الْمَخَاضُ إِلَىٰ جِذْعِ النَّخْلَةِ قَالَتْ يَا لَيْتَنِي مِتُّ قَبْلَ هَٰذَا وَكُنْتُ ________ مَنْسِيًّا)) to complete the full verse. This text is from Surah مريم (Chapter 19, Verse 23)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "نَسْيًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((أَفَرَأَيْتَ الَّذِي كَفَرَ بِآيَاتِنَا ________ وَوَلَدًا)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَقَالَ لَأُوتَيَنَّ مَالًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَمَا ________ أَنْ يَتَّخِذَ وَلَدًا)) to complete the full verse. This text is from Surah مريم (Chapter 19, Verse 92)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "يَنْبَغِي لِلرَّحْمَٰنِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَوَهَبْنَا لَهُمْ مِنْ رَحْمَتِنَا وَجَعَلْنَا لَهُمْ ________ صِدْقٍ عَلِيًّا)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "لِسَانَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((________ بِوَجْهِهِ سُوءَ الْعَذَابِ يَوْمَ الْقِيَامَةِ ۚ وَقِيلَ لِلظَّالِمِينَ ذُوقُوا مَا كُنْتُمْ تَكْسِبُونَ)) to complete the full verse. This text is from Surah الزمر (Chapter 39, Verse 24)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "أَفَمَنْ يَتَّقِي"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَسِيقَ الَّذِينَ اتَّقَوْا رَبَّهُمْ إِلَى الْجَنَّةِ زُمَرًا ۖ حَتَّىٰ ________ وَفُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا سَلَامٌ عَلَيْكُمْ طِبْتُمْ فَادْخُلُوهَا خَالِدِينَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "إِذَا جَاءُوهَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَسِيقَ الَّذِينَ كَفَرُوا إِلَىٰ جَهَنَّمَ زُمَرًا ۖ حَتَّىٰ إِذَا جَاءُوهَا فُتِحَتْ أَبْوَابُهَا ________ وَلَٰكِنْ حَقَّتْ كَلِمَةُ الْعَذَابِ عَلَى الْكَافِرِينَ)) to complete the full verse. This text is from Surah الزمر (Chapter 39, Verse 71)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَقَالَ لَهُمْ خَزَنَتُهَا أَلَمْ يَأْتِكُمْ رُسُلٌ مِنْكُمْ يَتْلُونَ عَلَيْكُمْ آيَاتِ رَبِّكُمْ وَيُنْذِرُونَكُمْ لِقَاءَ يَوْمِكُمْ هَٰذَا ۚ قَالُوا بَلَىٰ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((أَفَمَنْ ________ مِنْ رَبِّهِ ۚ فَوَيْلٌ لِلْقَاسِيَةِ قُلُوبُهُمْ مِنْ ذِكْرِ اللَّهِ ۚ أُولَٰئِكَ فِي ضَلَالٍ مُبِينٍ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "شَرَحَ اللَّهُ صَدْرَهُ لِلْإِسْلَامِ فَهُوَ عَلَىٰ نُورٍ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((مَنْ كَانَ يَظُنُّ أَنْ ________ ثُمَّ لْيَقْطَعْ فَلْيَنْظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُ مَا يَغِيظُ)) to complete the full verse. This text is from Surah الحج (Chapter 22, Verse 15)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "لَنْ يَنْصُرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ فَلْيَمْدُدْ بِسَبَبٍ إِلَى السَّمَاءِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((________ لَكُمُ الْأَنْعَامُ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ ۖ فَاجْتَنِبُوا الرِّجْسَ مِنَ الْأَوْثَانِ وَاجْتَنِبُوا قَوْلَ الزُّورِ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "ذَٰلِكَ وَمَنْ يُعَظِّمْ حُرُمَاتِ اللَّهِ فَهُوَ خَيْرٌ لَهُ عِنْدَ رَبِّهِ ۗ وَأُحِلَّتْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((فَالَّذِينَ ________ مَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ)) to complete the full verse. This text is from Surah الحج (Chapter 22, Verse 50)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((لَيُدْخِلَنَّهُمْ مُدْخَلًا يَرْضَوْنَهُ ۗ وَإِنَّ ________ لَعَلِيمٌ حَلِيمٌ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "اللَّهَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((________ صُبْحًا)) to complete the full verse. This text is from Surah العاديات (Chapter 100, Verse 3)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "فَالْمُغِيرَاتِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((قُلْ هَلْ مِنْ شُرَكَائِكُمْ مَنْ يَبْدَأُ ________ قُلِ اللَّهُ يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ ۖ فَأَنَّىٰ تُؤْفَكُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "الْخَلْقَ ثُمَّ يُعِيدُهُ ۚ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((لَهُمُ الْبُشْرَىٰ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ ۚ لَا تَبْدِيلَ لِكَلِمَاتِ ________ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ)) to complete the full verse. This text is from Surah يونس (Chapter 10, Verse 64)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "اللَّهِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((ثُمَّ بَعَثْنَا مِنْ بَعْدِهِ رُسُلًا إِلَىٰ قَوْمِهِمْ فَجَاءُوهُمْ بِالْبَيِّنَاتِ فَمَا كَانُوا لِيُؤْمِنُوا بِمَا كَذَّبُوا بِهِ مِنْ قَبْلُ ۚ كَذَٰلِكَ نَطْبَعُ عَلَىٰ ________ الْمُعْتَدِينَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "قُلُوبِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((فَقَالُوا عَلَى اللَّهِ ________ الظَّالِمِينَ)) to complete the full verse. This text is from Surah يونس (Chapter 10, Verse 85)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلْقَوْمِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَمَا ظَنُّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ يَوْمَ الْقِيَامَةِ ________ فَضْلٍ عَلَى النَّاسِ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "ۗ إِنَّ اللَّهَ لَذُو"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((________ رَبِّكَ الْمُنْتَهَىٰ)) to complete the full verse. This text is from Surah النجم (Chapter 53, Verse 42)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَأَنَّ إِلَىٰ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((وَقَوْمَ نُوحٍ مِنْ قَبْلُ ۖ ________ هُمْ أَظْلَمَ وَأَطْغَىٰ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "إِنَّهُمْ كَانُوا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((أَعِنْدَهُ عِلْمُ الْغَيْبِ فَهُوَ ________)) to complete the full verse. This text is from Surah النجم (Chapter 53, Verse 35)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "يَرَىٰ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((رَبِّ إِنَّهُنَّ أَضْلَلْنَ ________ عَصَانِي فَإِنَّكَ غَفُورٌ رَحِيمٌ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "كَثِيرًا مِنَ النَّاسِ ۖ فَمَنْ تَبِعَنِي فَإِنَّهُ مِنِّي ۖ وَمَنْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((الْحَمْدُ لِلَّهِ الَّذِي وَهَبَ لِي عَلَى الْكِبَرِ ________ الدُّعَاءِ)) to complete the full verse. This text is from Surah ابراهيم (Chapter 14, Verse 39)..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "إِسْمَاعِيلَ وَإِسْحَاقَ ۚ إِنَّ رَبِّي لَسَمِيعُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "Fill in the blank of the following Quranic text: ((اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ ________ شَدِيدٍ)) to complete the full verse..  The answer may be one or more words."
+            },
+            {
+                "role": "user",
+                "content": "Please provide the answer, and ONLY the answer without any extra commentary"
+            }
+        ],
+        "ideal": "وَوَيْلٌ لِلْكَافِرِينَ مِنْ عَذَابٍ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((يَتَنَازَعُونَ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة الطور (السورة 52، الآية 23).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "فِيهَا كَأْسًا لَا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ عَذَابَ رَبِّكَ لَوَاقِعٌ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "إِنَّ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((يَحْلِفُونَ ________ لَكُمْ لِيُرْضُوكُمْ وَاللَّهُ وَرَسُولُهُ أَحَقُّ أَنْ يُرْضُوهُ إِنْ كَانُوا مُؤْمِنِينَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة التوبة (السورة 9، الآية 62).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "بِاللَّهِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((أَعَدَّ اللَّهُ لَهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "فِيهَا ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَمَا كَانَ الْمُؤْمِنُونَ لِيَنْفِرُوا كَافَّةً ۚ فَلَوْلَا نَفَرَ ________ فِرْقَةٍ مِنْهُمْ طَائِفَةٌ لِيَتَفَقَّهُوا فِي الدِّينِ وَلِيُنْذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة التوبة (السورة 9، الآية 122).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "مِنْ كُلِّ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ يُصِيبَنَا إِلَّا مَا كَتَبَ اللَّهُ لَنَا هُوَ مَوْلَانَا ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "قُلْ لَنْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((لَيْسَ عَلَى الضُّعَفَاءِ وَلَا عَلَى الْمَرْضَىٰ وَلَا عَلَى الَّذِينَ لَا يَجِدُونَ مَا يُنْفِقُونَ حَرَجٌ ________ مِنْ سَبِيلٍ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ)) لإتمام الآية كاملة. هذا النص القرآني من سورة التوبة (السورة 9، الآية 91).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "إِذَا نَصَحُوا لِلَّهِ وَرَسُولِهِ ۚ مَا عَلَى الْمُحْسِنِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((خُذْ ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "مِنْ أَمْوَالِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِمْ بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَاتَكَ سَكَنٌ لَهُمْ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ كَانَ مِنَ الْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِ ۗ أَفَتَتَّخِذُونَهُ ________ عَدُوٌّ ۚ بِئْسَ لِلظَّالِمِينَ بَدَلًا)) لإتمام الآية كاملة. هذا النص القرآني من سورة الكهف (السورة 18، الآية 50).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَذُرِّيَّتَهُ أَوْلِيَاءَ مِنْ دُونِي وَهُمْ لَكُمْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَرَبُّكَ الْغَفُورُ ذُو الرَّحْمَةِ ________ الْعَذَابَ ۚ بَلْ لَهُمْ مَوْعِدٌ لَنْ يَجِدُوا مِنْ دُونِهِ مَوْئِلًا)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "ۖ لَوْ يُؤَاخِذُهُمْ بِمَا كَسَبُوا لَعَجَّلَ لَهُمُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((مَا أَشْهَدْتُهُمْ خَلْقَ السَّمَاوَاتِ وَالْأَرْضِ وَلَا خَلْقَ أَنْفُسِهِمْ ________ الْمُضِلِّينَ عَضُدًا)) لإتمام الآية كاملة. هذا النص القرآني من سورة الكهف (السورة 18، الآية 51).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَمَا كُنْتُ مُتَّخِذَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَإِنَّا لَجَاعِلُونَ مَا عَلَيْهَا صَعِيدًا ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "جُرُزًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَأَمَّا مَنْ آمَنَ وَعَمِلَ صَالِحًا ________ وَسَنَقُولُ لَهُ مِنْ أَمْرِنَا يُسْرًا)) لإتمام الآية كاملة. هذا النص القرآني من سورة الكهف (السورة 18، الآية 88).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "فَلَهُ جَزَاءً الْحُسْنَىٰ ۖ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((قُلْ لَوْ كَانَ الْبَحْرُ مِدَادًا لِكَلِمَاتِ رَبِّي لَنَفِدَ الْبَحْرُ قَبْلَ أَنْ تَنْفَدَ ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "كَلِمَاتُ رَبِّي وَلَوْ جِئْنَا بِمِثْلِهِ مَدَدًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((قَالَ أَلَمْ أَقُلْ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة الكهف (السورة 18، الآية 72).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "صَبْرًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ مَنِ الْكَذَّابُ الْأَشِرُ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "سَيَعْلَمُونَ غَدًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ أَلْوَاحٍ وَدُسُرٍ)) لإتمام الآية كاملة. هذا النص القرآني من سورة القمر (السورة 54، الآية 13).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَحَمَلْنَاهُ عَلَىٰ ذَاتِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ ________ وَقَالُوا مَجْنُونٌ وَازْدُجِرَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "فَكَذَّبُوا عَبْدَنَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((نِعْمَةً ________ مَنْ شَكَرَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة القمر (السورة 54، الآية 35).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "مِنْ عِنْدِنَا ۚ كَذَٰلِكَ نَجْزِي"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَنَبِّئْهُمْ أَنَّ ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "الْمَاءَ قِسْمَةٌ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُحْتَضَرٌ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((فَإِنْ تَوَلَّوْا فَقُلْ آذَنْتُكُمْ عَلَىٰ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة الأنبياء (السورة 21، الآية 109).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "سَوَاءٍ ۖ وَإِنْ أَدْرِي أَقَرِيبٌ أَمْ بَعِيدٌ مَا تُوعَدُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ حِسَابُهُمْ وَهُمْ فِي غَفْلَةٍ مُعْرِضُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ اقْتَرَبَ لِلنَّاسِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ إِلَّا نُوحِي إِلَيْهِ ________ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدُونِ)) لإتمام الآية كاملة. هذا النص القرآني من سورة الأنبياء (السورة 21، الآية 25).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "أَنَّهُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَلَهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ ________ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِ وَلَا يَسْتَحْسِرُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَمَنْ عِنْدَهُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَاقْتَرَبَ الْوَعْدُ الْحَقُّ فَإِذَا هِيَ شَاخِصَةٌ أَبْصَارُ الَّذِينَ كَفَرُوا يَا وَيْلَنَا ________ بَلْ كُنَّا ظَالِمِينَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة الأنبياء (السورة 21، الآية 97).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "قَدْ كُنَّا فِي غَفْلَةٍ مِنْ هَٰذَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَأَمَّا إِنْ كَانَ ________ الْمُكَذِّبِينَ الضَّالِّينَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "مِنَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((أَأَنْتُمْ تَزْرَعُونَهُ أَمْ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة الواقعة (السورة 56، الآية 64).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "نَحْنُ الزَّارِعُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَتَصْلِيَةُ ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "جَحِيمٍ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ كَاذِبَةٌ)) لإتمام الآية كاملة. هذا النص القرآني من سورة الواقعة (السورة 56، الآية 2).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "لَيْسَ لِوَقْعَتِهَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَأَصْحَابُ الشِّمَالِ مَا ________ الشِّمَالِ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "أَصْحَابُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَبُسَّتِ الْجِبَالُ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة الواقعة (السورة 56، الآية 5).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "بَسًّا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((نَحْنُ قَدَّرْنَا بَيْنَكُمُ الْمَوْتَ ________ بِمَسْبُوقِينَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَمَا نَحْنُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ عَنْ ذِكْرِ اللَّهِ ________ هُمُ الْخَاسِرُونَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة المنافقون (السورة 63، الآية 9).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ فَأُولَٰئِكَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوا إِلَّا ________ ضُحَاهَا)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "عَشِيَّةً أَوْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((فَذُوقُوا فَلَنْ نَزِيدَكُمْ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة النبإ (السورة 78، الآية 30).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "إِلَّا عَذَابًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ دِهَاقًا)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَكَأْسًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((أَلَمْ نَجْعَلِ ________ مِهَادًا)) لإتمام الآية كاملة. هذا النص القرآني من سورة النبإ (السورة 78، الآية 6).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "الْأَرْضَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَكَذَّبُوا بِآيَاتِنَا ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "كِذَّابًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَإِنَّا عَلَىٰ أَنْ نُرِيَكَ مَا ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة المؤمنون (السورة 23، الآية 95).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "نَعِدُهُمْ لَقَادِرُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ السَّيِّئَةَ ۚ ________ بِمَا يَصِفُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "نَحْنُ أَعْلَمُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((قُلْ رَبِّ إِمَّا تُرِيَنِّي مَا ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة المؤمنون (السورة 23، الآية 93).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "يُوعَدُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((الَّذِينَ يَرِثُونَ الْفِرْدَوْسَ ________ خَالِدُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "هُمْ فِيهَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((إِنَّ الَّذِينَ ________ خَشْيَةِ رَبِّهِمْ مُشْفِقُونَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة المؤمنون (السورة 23، الآية 57).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "هُمْ مِنْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَقُلْ رَبِّ أَنْزِلْنِي مُنْزَلًا مُبَارَكًا ________ الْمُنْزِلِينَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَأَنْتَ خَيْرُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَقَالَ الْمَلَأُ مِنْ قَوْمِهِ الَّذِينَ كَفَرُوا وَكَذَّبُوا بِلِقَاءِ الْآخِرَةِ وَأَتْرَفْنَاهُمْ فِي ________ وَيَشْرَبُ مِمَّا تَشْرَبُونَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة المؤمنون (السورة 23، الآية 33).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "الْحَيَاةِ الدُّنْيَا مَا هَٰذَا إِلَّا بَشَرٌ مِثْلُكُمْ يَأْكُلُ مِمَّا تَأْكُلُونَ مِنْهُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((مَا يَنْظُرُونَ ________ صَيْحَةً وَاحِدَةً تَأْخُذُهُمْ وَهُمْ يَخِصِّمُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "إِلَّا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((لِتُنْذِرَ قَوْمًا مَا أُنْذِرَ آبَاؤُهُمْ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة يس (السورة 36، الآية 6).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "فَهُمْ غَافِلُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ الرَّحْمَٰنُ مِنْ شَيْءٍ إِنْ أَنْتُمْ إِلَّا تَكْذِبُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "قَالُوا مَا أَنْتُمْ إِلَّا بَشَرٌ مِثْلُنَا وَمَا أَنْزَلَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((أَلَمْ يَرَوْا كَمْ أَهْلَكْنَا قَبْلَهُمْ مِنَ ________ يَرْجِعُونَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة يس (السورة 36، الآية 31).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "الْقُرُونِ أَنَّهُمْ إِلَيْهِمْ لَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((أَلَمْ يَرَوْا إِلَى الطَّيْرِ ________ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "مُسَخَّرَاتٍ فِي جَوِّ السَّمَاءِ مَا يُمْسِكُهُنَّ إِلَّا اللَّهُ ۗ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَالْأَنْعَامَ خَلَقَهَا ۗ ________ وَمِنْهَا تَأْكُلُونَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة النحل (السورة 16، الآية 5).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "لَكُمْ فِيهَا دِفْءٌ وَمَنَافِعُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ عَلَى الَّذِينَ يَتَوَلَّوْنَهُ وَالَّذِينَ هُمْ بِهِ مُشْرِكُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "إِنَّمَا سُلْطَانُهُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((هَلْ يَنْظُرُونَ إِلَّا أَنْ تَأْتِيَهُمُ الْمَلَائِكَةُ أَوْ يَأْتِيَ أَمْرُ رَبِّكَ ۚ كَذَٰلِكَ فَعَلَ الَّذِينَ مِنْ ________ وَمَا ظَلَمَهُمُ اللَّهُ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة النحل (السورة 16، الآية 33).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "قَبْلِهِمْ ۚ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((فَإِنْ تَوَلَّوْا فَإِنَّمَا ________ الْمُبِينُ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "عَلَيْكَ الْبَلَاغُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((نُزُلًا مِنْ غَفُورٍ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة فصلت (السورة 41، الآية 32).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "رَحِيمٍ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنْفُسِهِمْ حَتَّىٰ يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ ۗ أَوَلَمْ يَكْفِ بِرَبِّكَ أَنَّهُ عَلَىٰ كُلِّ شَيْءٍ ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "شَهِيدٌ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا تَتَنَزَّلُ عَلَيْهِمُ الْمَلَائِكَةُ أَلَّا تَخَافُوا وَلَا تَحْزَنُوا وَأَبْشِرُوا ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة فصلت (السورة 41، الآية 30).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "بِالْجَنَّةِ الَّتِي كُنْتُمْ تُوعَدُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ هَلْ أَتَىٰ ________ لَمْ يَكُنْ شَيْئًا مَذْكُورًا)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "عَلَى الْإِنْسَانِ حِينٌ مِنَ الدَّهْرِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((إِنَّ ________ لَلْهُدَىٰ)) لإتمام الآية كاملة. هذا النص القرآني من سورة الليل (السورة 92، الآية 12).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "عَلَيْنَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "ثُمَّ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَإِلَى اللَّهِ ________ الْأُمُورُ)) لإتمام الآية كاملة. هذا النص القرآني من سورة الحديد (السورة 57، الآية 5).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "تُرْجَعُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ وَلَيَعْلَمَنَّ الْكَاذِبِينَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَلَقَدْ فَتَنَّا الَّذِينَ مِنْ قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَإِبْرَاهِيمَ إِذْ قَالَ لِقَوْمِهِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ ۖ ذَٰلِكُمْ خَيْرٌ لَكُمْ ________ كُنْتُمْ تَعْلَمُونَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة العنكبوت (السورة 29، الآية 16).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "إِنْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((مَنْ كَانَ يَرْجُو لِقَاءَ اللَّهِ فَإِنَّ أَجَلَ اللَّهِ لَآتٍ ۚ وَهُوَ السَّمِيعُ ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "الْعَلِيمُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((لِيَكْفُرُوا بِمَا آتَيْنَاهُمْ وَلِيَتَمَتَّعُوا ________ فَسَوْفَ يَعْلَمُونَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة العنكبوت (السورة 29، الآية 66).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "ۖ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ لَيَقُولُنَّ اللَّهُ ________ فَأَنَّىٰ يُؤْفَكُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "ۖ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((إِنَّا أَنْزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ النَّاسِ بِمَا أَرَاكَ اللَّهُ ۚ وَلَا تَكُنْ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة النساء (السورة 4، الآية 105).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "لِلْخَائِنِينَ خَصِيمًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَإِذَا كُنْتَ فِيهِمْ فَأَقَمْتَ لَهُمُ الصَّلَاةَ فَلْتَقُمْ طَائِفَةٌ مِنْهُمْ مَعَكَ وَلْيَأْخُذُوا أَسْلِحَتَهُمْ فَإِذَا سَجَدُوا فَلْيَكُونُوا مِنْ وَرَائِكُمْ وَلْتَأْتِ طَائِفَةٌ أُخْرَىٰ لَمْ يُصَلُّوا فَلْيُصَلُّوا مَعَكَ وَلْيَأْخُذُوا حِذْرَهُمْ وَأَسْلِحَتَهُمْ ۗ وَدَّ الَّذِينَ كَفَرُوا لَوْ تَغْفُلُونَ عَنْ أَسْلِحَتِكُمْ وَأَمْتِعَتِكُمْ فَيَمِيلُونَ عَلَيْكُمْ مَيْلَةً وَاحِدَةً ۚ ________ بِكُمْ أَذًى مِنْ مَطَرٍ أَوْ كُنْتُمْ مَرْضَىٰ أَنْ تَضَعُوا أَسْلِحَتَكُمْ ۖ وَخُذُوا حِذْرَكُمْ ۗ إِنَّ اللَّهَ أَعَدَّ لِلْكَافِرِينَ عَذَابًا مُهِينًا)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَلَا جُنَاحَ عَلَيْكُمْ إِنْ كَانَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ لَهُمْ فِيهَا أَزْوَاجٌ مُطَهَّرَةٌ ________ ظَلِيلًا)) لإتمام الآية كاملة. هذا النص القرآني من سورة النساء (السورة 4، الآية 57).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "ۖ وَنُدْخِلُهُمْ ظِلًّا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ وَيَتَعَدَّ ________ يُدْخِلْهُ نَارًا خَالِدًا فِيهَا وَلَهُ عَذَابٌ مُهِينٌ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "حُدُودَهُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((يَسْأَلُكَ أَهْلُ الْكِتَابِ أَنْ تُنَزِّلَ عَلَيْهِمْ كِتَابًا مِنَ ________ اللَّهَ جَهْرَةً فَأَخَذَتْهُمُ الصَّاعِقَةُ بِظُلْمِهِمْ ۚ ثُمَّ اتَّخَذُوا الْعِجْلَ مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَاتُ فَعَفَوْنَا عَنْ ذَٰلِكَ ۚ وَآتَيْنَا مُوسَىٰ سُلْطَانًا مُبِينًا)) لإتمام الآية كاملة. هذا النص القرآني من سورة النساء (السورة 4، الآية 153).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "السَّمَاءِ ۚ فَقَدْ سَأَلُوا مُوسَىٰ أَكْبَرَ مِنْ ذَٰلِكَ فَقَالُوا أَرِنَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ قِيلَ لَهُمْ تَعَالَوْا إِلَىٰ مَا أَنْزَلَ اللَّهُ وَإِلَى الرَّسُولِ رَأَيْتَ الْمُنَافِقِينَ يَصُدُّونَ عَنْكَ صُدُودًا)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَإِذَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((فَأَمَّا الَّذِينَ آمَنُوا بِاللَّهِ ________ صِرَاطًا مُسْتَقِيمًا)) لإتمام الآية كاملة. هذا النص القرآني من سورة النساء (السورة 4، الآية 175).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَاعْتَصَمُوا بِهِ فَسَيُدْخِلُهُمْ فِي رَحْمَةٍ مِنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ أَنِ ________ أَنَّهُمْ فَعَلُوا مَا يُوعَظُونَ بِهِ لَكَانَ خَيْرًا لَهُمْ وَأَشَدَّ تَثْبِيتًا)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "اقْتُلُوا أَنْفُسَكُمْ أَوِ اخْرُجُوا مِنْ دِيَارِكُمْ مَا فَعَلُوهُ إِلَّا قَلِيلٌ مِنْهُمْ ۖ وَلَوْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَلَهَدَيْنَاهُمْ صِرَاطًا ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة النساء (السورة 4، الآية 68).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "مُسْتَقِيمًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ الْبُيُوتِ حَتَّىٰ يَتَوَفَّاهُنَّ الْمَوْتُ أَوْ يَجْعَلَ اللَّهُ لَهُنَّ سَبِيلًا)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَاللَّاتِي يَأْتِينَ الْفَاحِشَةَ مِنْ نِسَائِكُمْ فَاسْتَشْهِدُوا عَلَيْهِنَّ أَرْبَعَةً مِنْكُمْ ۖ فَإِنْ شَهِدُوا فَأَمْسِكُوهُنَّ فِي"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((مُسَوَّمَةً عِنْدَ رَبِّكَ ۖ وَمَا هِيَ ________ بِبَعِيدٍ)) لإتمام الآية كاملة. هذا النص القرآني من سورة هود (السورة 11، الآية 83).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "مِنَ الظَّالِمِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَنَادَىٰ نُوحٌ رَبَّهُ فَقَالَ رَبِّ إِنَّ ابْنِي مِنْ ________ الْحَقُّ وَأَنْتَ أَحْكَمُ الْحَاكِمِينَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "أَهْلِي وَإِنَّ وَعْدَكَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَإِنَّ كُلًّا لَمَّا لَيُوَفِّيَنَّهُمْ رَبُّكَ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة هود (السورة 11، الآية 111).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "أَعْمَالَهُمْ ۚ إِنَّهُ بِمَا يَعْمَلُونَ خَبِيرٌ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا ۚ أُولَٰئِكَ يُعْرَضُونَ عَلَىٰ رَبِّهِمْ وَيَقُولُ الْأَشْهَادُ هَٰؤُلَاءِ الَّذِينَ كَذَبُوا عَلَىٰ رَبِّهِمْ ۚ أَلَا لَعْنَةُ ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "اللَّهِ عَلَى الظَّالِمِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((أَمْ يَقُولُونَ افْتَرَاهُ ۖ قُلْ فَأْتُوا بِعَشْرِ سُوَرٍ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة هود (السورة 11، الآية 13).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "مِثْلِهِ مُفْتَرَيَاتٍ وَادْعُوا مَنِ اسْتَطَعْتُمْ مِنْ دُونِ اللَّهِ إِنْ كُنْتُمْ صَادِقِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((أَفَمَنْ كَانَ عَلَىٰ بَيِّنَةٍ مِنْ رَبِّهِ وَيَتْلُوهُ شَاهِدٌ مِنْهُ وَمِنْ قَبْلِهِ كِتَابُ ________ إِنَّهُ الْحَقُّ مِنْ رَبِّكَ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يُؤْمِنُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "مُوسَىٰ إِمَامًا وَرَحْمَةً ۚ أُولَٰئِكَ يُؤْمِنُونَ بِهِ ۚ وَمَنْ يَكْفُرْ بِهِ مِنَ الْأَحْزَابِ فَالنَّارُ مَوْعِدُهُ ۚ فَلَا تَكُ فِي مِرْيَةٍ مِنْهُ ۚ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَلَئِنْ أَخَّرْنَا ________ وَحَاقَ بِهِمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة هود (السورة 11، الآية 8).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "عَنْهُمُ الْعَذَابَ إِلَىٰ أُمَّةٍ مَعْدُودَةٍ لَيَقُولُنَّ مَا يَحْبِسُهُ ۗ أَلَا يَوْمَ يَأْتِيهِمْ لَيْسَ مَصْرُوفًا عَنْهُمْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((قَالَ يَا قَوْمِ أَرَأَيْتُمْ إِنْ كُنْتُ عَلَىٰ بَيِّنَةٍ مِنْ رَبِّي وَآتَانِي ________ وَأَنْتُمْ لَهَا كَارِهُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "رَحْمَةً مِنْ عِنْدِهِ فَعُمِّيَتْ عَلَيْكُمْ أَنُلْزِمُكُمُوهَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((هَلْ فِي ذَٰلِكَ قَسَمٌ ________ حِجْرٍ)) لإتمام الآية كاملة. هذا النص القرآني من سورة الفجر (السورة 89، الآية 5).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "لِذِي"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((لَسْتَ عَلَيْهِمْ ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "بِمُصَيْطِرٍ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((إِلَّا مَنْ ________ وَكَفَرَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة الغاشية (السورة 88، الآية 23).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "تَوَلَّىٰ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَإِلَى ________ كَيْفَ نُصِبَتْ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "الْجِبَالِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((تَصْلَىٰ ________ حَامِيَةً)) لإتمام الآية كاملة. هذا النص القرآني من سورة الغاشية (السورة 88، الآية 4).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "نَارًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((فَإِذَا ________ الصَّاخَّةُ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "جَاءَتِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((فَأَنْبَتْنَا ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة عبس (السورة 80، الآية 27).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "فِيهَا حَبًّا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَأَمَّا الَّذِينَ فَسَقُوا فَمَأْوَاهُمُ النَّارُ ________ يَخْرُجُوا مِنْهَا أُعِيدُوا فِيهَا وَقِيلَ لَهُمْ ذُوقُوا عَذَابَ النَّارِ الَّذِي كُنْتُمْ بِهِ تُكَذِّبُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "ۖ كُلَّمَا أَرَادُوا أَنْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((يُدَبِّرُ الْأَمْرَ مِنَ السَّمَاءِ إِلَى الْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِي ________ مِقْدَارُهُ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة السجدة (السورة 32، الآية 5).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "يَوْمٍ كَانَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَمِنْ آيَاتِهِ خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ ۚ إِنَّ ________ لَآيَاتٍ لِلْعَالِمِينَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "فِي ذَٰلِكَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((فَانْظُرْ إِلَىٰ آثَارِ رَحْمَتِ اللَّهِ ________ لَمُحْيِي الْمَوْتَىٰ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ)) لإتمام الآية كاملة. هذا النص القرآني من سورة الروم (السورة 30، الآية 50).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "كَيْفَ يُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا ۚ إِنَّ ذَٰلِكَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَلَهُ مَنْ فِي ________ لَهُ قَانِتُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "السَّمَاوَاتِ وَالْأَرْضِ ۖ كُلٌّ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ ________ ۚ كَانُوا أَشَدَّ مِنْهُمْ قُوَّةً وَأَثَارُوا الْأَرْضَ وَعَمَرُوهَا أَكْثَرَ مِمَّا عَمَرُوهَا وَجَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ ۖ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة الروم (السورة 30، الآية 9).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "الَّذِينَ مِنْ قَبْلِهِمْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((مَا جَعَلَ اللَّهُ لِرَجُلٍ ________ أَبْنَاءَكُمْ ۚ ذَٰلِكُمْ قَوْلُكُمْ بِأَفْوَاهِكُمْ ۖ وَاللَّهُ يَقُولُ الْحَقَّ وَهُوَ يَهْدِي السَّبِيلَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "مِنْ قَلْبَيْنِ فِي جَوْفِهِ ۚ وَمَا جَعَلَ أَزْوَاجَكُمُ اللَّائِي تُظَاهِرُونَ مِنْهُنَّ أُمَّهَاتِكُمْ ۚ وَمَا جَعَلَ أَدْعِيَاءَكُمْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَمَنْ يَقْنُتْ مِنْكُنَّ ________ صَالِحًا نُؤْتِهَا أَجْرَهَا مَرَّتَيْنِ وَأَعْتَدْنَا لَهَا رِزْقًا كَرِيمًا)) لإتمام الآية كاملة. هذا النص القرآني من سورة الأحزاب (السورة 33، الآية 31).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "لِلَّهِ وَرَسُولِهِ وَتَعْمَلْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((لِيُعَذِّبَ اللَّهُ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ وَالْمُشْرِكِينَ وَالْمُشْرِكَاتِ وَيَتُوبَ اللَّهُ ________ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ۗ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "عَلَى"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَقَدْ أَضَلُّوا كَثِيرًا ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة نوح (السورة 71، الآية 24).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "ۖ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًا)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَإِنِّي كُلَّمَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ خَلَقَكُمْ أَطْوَارًا)) لإتمام الآية كاملة. هذا النص القرآني من سورة نوح (السورة 71، الآية 14).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَقَدْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِنْ يُوسُفَ وَأَخِيهِ وَلَا تَيْأَسُوا مِنْ رَوْحِ اللَّهِ ۖ إِنَّهُ لَا ________ مِنْ رَوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "يَيْأَسُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((قَالَ إِنِّي لَيَحْزُنُنِي أَنْ تَذْهَبُوا بِهِ ________ عَنْهُ غَافِلُونَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة يوسف (السورة 12، الآية 13).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَأَخَافُ أَنْ يَأْكُلَهُ الذِّئْبُ وَأَنْتُمْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((قَالَتْ فَذَٰلِكُنَّ الَّذِي لُمْتُنَّنِي ________ فَاسْتَعْصَمَ ۖ وَلَئِنْ لَمْ يَفْعَلْ مَا آمُرُهُ لَيُسْجَنَنَّ وَلَيَكُونًا مِنَ الصَّاغِرِينَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "فِيهِ ۖ وَلَقَدْ رَاوَدْتُهُ عَنْ نَفْسِهِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((يَا صَاحِبَيِ السِّجْنِ ________ وَأَمَّا الْآخَرُ فَيُصْلَبُ فَتَأْكُلُ الطَّيْرُ مِنْ رَأْسِهِ ۚ قُضِيَ الْأَمْرُ الَّذِي فِيهِ تَسْتَفْتِيَانِ)) لإتمام الآية كاملة. هذا النص القرآني من سورة يوسف (السورة 12، الآية 41).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "أَمَّا أَحَدُكُمَا فَيَسْقِي رَبَّهُ خَمْرًا ۖ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَقَالَ الْمَلِكُ ائْتُونِي بِهِ ۖ فَلَمَّا جَاءَهُ الرَّسُولُ ________ اللَّاتِي قَطَّعْنَ أَيْدِيَهُنَّ ۚ إِنَّ رَبِّي بِكَيْدِهِنَّ عَلِيمٌ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "قَالَ ارْجِعْ إِلَىٰ رَبِّكَ فَاسْأَلْهُ مَا بَالُ النِّسْوَةِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((إِذْ قَالُوا لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِي ضَلَالٍ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة يوسف (السورة 12، الآية 8).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "مُبِينٍ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((قَالَ هَلْ آمَنُكُمْ عَلَيْهِ إِلَّا كَمَا أَمِنْتُكُمْ عَلَىٰ أَخِيهِ مِنْ قَبْلُ ۖ ________ وَهُوَ أَرْحَمُ الرَّاحِمِينَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "فَاللَّهُ خَيْرٌ حَافِظًا ۖ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((قُلْ إِنَّمَا أَنَا مُنْذِرٌ ۖ وَمَا مِنْ إِلَٰهٍ إِلَّا ________ الْقَهَّارُ)) لإتمام الآية كاملة. هذا النص القرآني من سورة ص (السورة 38، الآية 65).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "اللَّهُ الْوَاحِدُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((إِذْ عُرِضَ عَلَيْهِ بِالْعَشِيِّ الصَّافِنَاتُ ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "الْجِيَادُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَخُذْ بِيَدِكَ ضِغْثًا فَاضْرِبْ بِهِ وَلَا ________ وَجَدْنَاهُ صَابِرًا ۚ نِعْمَ الْعَبْدُ ۖ إِنَّهُ أَوَّابٌ)) لإتمام الآية كاملة. هذا النص القرآني من سورة ص (السورة 38، الآية 44).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "تَحْنَثْ ۗ إِنَّا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا وَمَنْ صَلَحَ مِنْ آبَائِهِمْ وَأَزْوَاجِهِمْ وَذُرِّيَّاتِهِمْ ________ مِنْ كُلِّ بَابٍ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "ۖ وَالْمَلَائِكَةُ يَدْخُلُونَ عَلَيْهِمْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ المر ۚ تِلْكَ آيَاتُ الْكِتَابِ ۗ وَالَّذِي أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ الْحَقُّ وَلَٰكِنَّ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة الرعد (السورة 13، الآية 1).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "أَكْثَرَ النَّاسِ لَا يُؤْمِنُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ لِلَّهِ شُهَدَاءَ بِالْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ ________ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَاتَّقُوا اللَّهَ ۚ إِنَّ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((يَهْدِي بِهِ اللَّهُ مَنِ اتَّبَعَ رِضْوَانَهُ سُبُلَ السَّلَامِ وَيُخْرِجُهُمْ مِنَ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة المائدة (السورة 5، الآية 16).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "الظُّلُمَاتِ إِلَى النُّورِ بِإِذْنِهِ وَيَهْدِيهِمْ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((قَالُوا يَا مُوسَىٰ إِنَّ فِيهَا قَوْمًا جَبَّارِينَ وَإِنَّا لَنْ نَدْخُلَهَا حَتَّىٰ يَخْرُجُوا مِنْهَا فَإِنْ يَخْرُجُوا ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "مِنْهَا فَإِنَّا دَاخِلُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((فَتَرَى الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ يُسَارِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰ أَنْ تُصِيبَنَا ________ يَأْتِيَ بِالْفَتْحِ أَوْ أَمْرٍ مِنْ عِنْدِهِ فَيُصْبِحُوا عَلَىٰ مَا أَسَرُّوا فِي أَنْفُسِهِمْ نَادِمِينَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة المائدة (السورة 5، الآية 52).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "دَائِرَةٌ ۚ فَعَسَى اللَّهُ أَنْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَقَالَتِ الْيَهُودُ وَالنَّصَارَىٰ نَحْنُ أَبْنَاءُ اللَّهِ وَأَحِبَّاؤُهُ ۚ قُلْ فَلِمَ يُعَذِّبُكُمْ بِذُنُوبِكُمْ ۖ بَلْ أَنْتُمْ بَشَرٌ مِمَّنْ خَلَقَ ۚ يَغْفِرُ لِمَنْ يَشَاءُ وَيُعَذِّبُ مَنْ يَشَاءُ ۚ ________ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۖ وَإِلَيْهِ الْمَصِيرُ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَلِلَّهِ مُلْكُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((قُلْ يَا أَهْلَ الْكِتَابِ لَسْتُمْ عَلَىٰ شَيْءٍ حَتَّىٰ تُقِيمُوا التَّوْرَاةَ وَالْإِنْجِيلَ وَمَا أُنْزِلَ ________ ۖ فَلَا تَأْسَ عَلَى الْقَوْمِ الْكَافِرِينَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة المائدة (السورة 5، الآية 68).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "إِلَيْكُمْ مِنْ رَبِّكُمْ ۗ وَلَيَزِيدَنَّ كَثِيرًا مِنْهُمْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ طُغْيَانًا وَكُفْرًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ ذَٰلِكَ يَوْمُ الْوَعِيدِ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَنُفِخَ فِي الصُّورِ ۚ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((أَلْقِيَا فِي جَهَنَّمَ كُلَّ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة ق (السورة 50، الآية 24).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "كَفَّارٍ عَنِيدٍ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((هُوَ الَّذِي جَعَلَكُمْ خَلَائِفَ فِي الْأَرْضِ ۚ فَمَنْ كَفَرَ فَعَلَيْهِ كُفْرُهُ ۖ وَلَا يَزِيدُ ________ كُفْرُهُمْ إِلَّا خَسَارًا)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "الْكَافِرِينَ كُفْرُهُمْ عِنْدَ رَبِّهِمْ إِلَّا مَقْتًا ۖ وَلَا يَزِيدُ الْكَافِرِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((قَالَتْ ________ ۖ إِنَّ خَيْرَ مَنِ اسْتَأْجَرْتَ الْقَوِيُّ الْأَمِينُ)) لإتمام الآية كاملة. هذا النص القرآني من سورة القصص (السورة 28، الآية 26).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "إِحْدَاهُمَا يَا أَبَتِ اسْتَأْجِرْهُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَلَا تَدْعُ مَعَ اللَّهِ إِلَٰهًا آخَرَ ۘ لَا إِلَٰهَ إِلَّا هُوَ ________ تُرْجَعُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "ۚ كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ ۚ لَهُ الْحُكْمُ وَإِلَيْهِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ نَبَإِ مُوسَىٰ وَفِرْعَوْنَ بِالْحَقِّ لِقَوْمٍ يُؤْمِنُونَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة القصص (السورة 28، الآية 3).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "نَتْلُو عَلَيْكَ مِنْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((إِنَّ الَّذِي فَرَضَ عَلَيْكَ ________ ضَلَالٍ مُبِينٍ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "الْقُرْآنَ لَرَادُّكَ إِلَىٰ مَعَادٍ ۚ قُلْ رَبِّي أَعْلَمُ مَنْ جَاءَ بِالْهُدَىٰ وَمَنْ هُوَ فِي"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((قُلْ إِنَّ الْمَوْتَ الَّذِي تَفِرُّونَ مِنْهُ فَإِنَّهُ مُلَاقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَالِمِ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة الجمعة (السورة 62، الآية 8).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَلَا يَتَمَنَّوْنَهُ أَبَدًا ________ قَدَّمَتْ أَيْدِيهِمْ ۚ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "بِمَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((ثُمَّ ________ وَاسْتَكْبَرَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة المدثر (السورة 74، الآية 23).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "أَدْبَرَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((لَوَّاحَةٌ ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "لِلْبَشَرِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ أَصْحَابَ الْيَمِينِ)) لإتمام الآية كاملة. هذا النص القرآني من سورة المدثر (السورة 74، الآية 39).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "إِلَّا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ إِنَّهُ تَذْكِرَةٌ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "كَلَّا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((كَلَّا ۖ إِنَّهُ ________ لِآيَاتِنَا عَنِيدًا)) لإتمام الآية كاملة. هذا النص القرآني من سورة المدثر (السورة 74، الآية 16).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "كَانَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((بِسْمِ اللَّهِ الرَّحْمَٰنِ ________ ۚ وَالْقَلَمِ وَمَا يَسْطُرُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "الرَّحِيمِ ن"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((سَنَسِمُهُ عَلَى ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة القلم (السورة 68، الآية 16).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "الْخُرْطُومِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَإِنَّ لَكَ لَأَجْرًا غَيْرَ ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "مَمْنُونٍ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَنَادَوْا يَا مَالِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُمْ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة الزخرف (السورة 43، الآية 77).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "مَاكِثُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((فَلَمَّا كَشَفْنَا عَنْهُمُ الْعَذَابَ إِذَا هُمْ ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "يَنْكُثُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((يُطَافُ عَلَيْهِمْ بِصِحَافٍ مِنْ ذَهَبٍ وَأَكْوَابٍ ۖ وَفِيهَا مَا تَشْتَهِيهِ الْأَنْفُسُ وَتَلَذُّ الْأَعْيُنُ ۖ وَأَنْتُمْ فِيهَا ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة الزخرف (السورة 43، الآية 71).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "خَالِدُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَعَادًا وَثَمُودَ ________ الرَّسِّ وَقُرُونًا بَيْنَ ذَٰلِكَ كَثِيرًا)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَأَصْحَابَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((ثُمَّ قَبَضْنَاهُ ________ يَسِيرًا)) لإتمام الآية كاملة. هذا النص القرآني من سورة الفرقان (السورة 25، الآية 46).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "إِلَيْنَا قَبْضًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِيٍّ ________ وَنَصِيرًا)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "عَدُوًّا مِنَ الْمُجْرِمِينَ ۗ وَكَفَىٰ بِرَبِّكَ هَادِيًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَلَقَدْ آتَيْنَا مُوسَى ________ وَجَعَلْنَا مَعَهُ أَخَاهُ هَارُونَ وَزِيرًا)) لإتمام الآية كاملة. هذا النص القرآني من سورة الفرقان (السورة 25، الآية 35).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "الْكِتَابَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ________ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَخْسَرُ الْمُبْطِلُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "ۚ وَيَوْمَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَإِذَا قِيلَ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَالسَّاعَةُ لَا رَيْبَ فِيهَا قُلْتُمْ مَا ________ نَظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة الجاثية (السورة 45، الآية 32).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "نَدْرِي مَا السَّاعَةُ إِنْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((ثُمَّ جَعَلْنَاكَ عَلَىٰ شَرِيعَةٍ مِنَ الْأَمْرِ فَاتَّبِعْهَا وَلَا تَتَّبِعْ أَهْوَاءَ ________ يَعْلَمُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "الَّذِينَ لَا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((تَعْرِفُ فِي ________ نَضْرَةَ النَّعِيمِ)) لإتمام الآية كاملة. هذا النص القرآني من سورة المطففين (السورة 83، الآية 24).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وُجُوهِهِمْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ عَاقِبَةُ أَمْرِهَا خُسْرًا)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "فَذَاقَتْ وَبَالَ أَمْرِهَا وَكَانَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يَا أَيُّهَا ________ وَاتَّقُوا اللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ ۚ وَتِلْكَ حُدُودُ اللَّهِ ۚ وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ فَقَدْ ظَلَمَ نَفْسَهُ ۚ لَا تَدْرِي لَعَلَّ اللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا)) لإتمام الآية كاملة. هذا النص القرآني من سورة الطلاق (السورة 65، الآية 1).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "النَّبِيُّ إِذَا طَلَّقْتُمُ النِّسَاءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا الْعِدَّةَ ۖ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "مَأْمُونٍ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ صَبْرًا جَمِيلًا)) لإتمام الآية كاملة. هذا النص القرآني من سورة المعارج (السورة 70، الآية 5).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "فَاصْبِرْ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ لَتَذْكِرَةٌ لِلْمُتَّقِينَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَإِنَّهُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَيَصْلَىٰ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة الإنشقاق (السورة 84، الآية 12).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "سَعِيرًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((إِنَّا سَنُلْقِي عَلَيْكَ ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "قَوْلًا ثَقِيلًا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَمَا هُمْ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة الإنفطار (السورة 82، الآية 16).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "عَنْهَا بِغَائِبِينَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَالْتَفَّتِ ________ بِالسَّاقِ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "السَّاقُ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((أَلَمْ تَرَ إِلَى الَّذِينَ تَوَلَّوْا قَوْمًا غَضِبَ اللَّهُ عَلَيْهِمْ مَا هُمْ مِنْكُمْ وَلَا ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة المجادلة (السورة 58، الآية 14).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "مِنْهُمْ وَيَحْلِفُونَ عَلَى الْكَذِبِ وَهُمْ يَعْلَمُونَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((أَعَدَّ اللَّهُ لَهُمْ عَذَابًا شَدِيدًا ۖ ________ يَعْمَلُونَ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "إِنَّهُمْ سَاءَ مَا كَانُوا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((الَّذِي يَصْلَى ________ الْكُبْرَىٰ)) لإتمام الآية كاملة. هذا النص القرآني من سورة الأعلى (السورة 87، الآية 12).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "النَّارَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَالَّذِينَ آمَنُوا وَهَاجَرُوا وَجَاهَدُوا فِي سَبِيلِ اللَّهِ وَالَّذِينَ آوَوْا ________ أُولَٰئِكَ هُمُ الْمُؤْمِنُونَ حَقًّا ۚ لَهُمْ مَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "وَنَصَرُوا"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَإِذْ قَالُوا اللَّهُمَّ إِنْ كَانَ هَٰذَا هُوَ الْحَقَّ مِنْ عِنْدِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِنَ السَّمَاءِ أَوِ ائْتِنَا ________ أَلِيمٍ)) لإتمام الآية كاملة. هذا النص القرآني من سورة الأنفال (السورة 8، الآية 32).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "بِعَذَابٍ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ تَتَّقُوا اللَّهَ يَجْعَلْ لَكُمْ فُرْقَانًا وَيُكَفِّرْ عَنْكُمْ سَيِّئَاتِكُمْ وَيَغْفِرْ لَكُمْ ________ الْفَضْلِ الْعَظِيمِ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "ۗ وَاللَّهُ ذُو"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((________ لِلْمُصَلِّينَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة الماعون (السورة 107، الآية 4).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "فَوَيْلٌ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِنْ ________ وَنُحَاسٌ فَلَا تَنْتَصِرَانِ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "نَارٍ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((انْطَلِقُوا إِلَىٰ ظِلٍّ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة المرسلات (السورة 77، الآية 30).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "ذِي ثَلَاثِ شُعَبٍ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَأَرْسَلَ عَلَيْهِمْ ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "طَيْرًا أَبَابِيلَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((مِنْ فِرْعَوْنَ ۚ إِنَّهُ كَانَ عَالِيًا ________ الْمُسْرِفِينَ)) لإتمام الآية كاملة. هذا النص القرآني من سورة الدخان (السورة 44، الآية 31).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "مِنَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((أَنَّىٰ ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "لَهُمُ الذِّكْرَىٰ وَقَدْ جَاءَهُمْ رَسُولٌ مُبِينٌ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((أَرَأَيْتَ إِنْ ________ وَتَوَلَّىٰ)) لإتمام الآية كاملة. هذا النص القرآني من سورة العلق (السورة 96، الآية 13).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "كَذَّبَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((أَنْ رَآهُ ________)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "اسْتَغْنَىٰ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((وَأَنْتَ حِلٌّ ________)) لإتمام الآية كاملة. هذا النص القرآني من سورة البلد (السورة 90، الآية 2).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "بِهَٰذَا الْبَلَدِ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ وَشَاقُّوا الرَّسُولَ مِنْ ________ شَيْئًا وَسَيُحْبِطُ أَعْمَالَهُمْ)) لإتمام الآية كاملة.. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "بَعْدِ مَا تَبَيَّنَ لَهُمُ الْهُدَىٰ لَنْ يَضُرُّوا اللَّهَ"
+    },
+    {
+        "input": [
+            {
+                "role": "system",
+                "content": "املأ الفراغ في النص القرآني التالي: ((قُلْ إِنِّي لَنْ يُجِيرَنِي مِنَ ________ أَجِدَ مِنْ دُونِهِ مُلْتَحَدًا)) لإتمام الآية كاملة. هذا النص القرآني من سورة الجن (السورة 72، الآية 22).. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
+            },
+            {
+                "role": "user",
+                "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"
+            }
+        ],
+        "ideal": "اللَّهِ أَحَدٌ وَلَنْ"
+    }
+]
