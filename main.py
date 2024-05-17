@@ -4,6 +4,8 @@ import random
 import re
 import os
 
+SEED = 42
+
 def load_quran_data(file_path):
     return pd.read_csv(file_path, header=None, names=['chapter', 'verse', 'text'], sep='|')
 
@@ -11,7 +13,8 @@ def load_chapter_names(file_path):
     return pd.read_json(file_path)
 
 def extract_random_ayas(df, number_of_ayas):
-    return df.sample(n=number_of_ayas)
+    random.seed(SEED)
+    return df.sample(n=number_of_ayas, random_state=SEED)
 
 def load_distractors(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -19,6 +22,7 @@ def load_distractors(file_path):
     return distractors
 
 def generate_mcq_questions(aya, distractors_list, n=3):
+    random.seed(SEED)
     correct_answer = aya['text']
     valid_distractors = [d for d in distractors_list if d != correct_answer]
     selected_distractors = random.sample(valid_distractors, n)
@@ -37,8 +41,8 @@ def generate_mcq_questions(aya, distractors_list, n=3):
     
     return question_content_en, question_content_ar, correct_label
 
-
 def redact_aya(text, all_texts):
+    random.seed(SEED)
     words = text.split()
     if len(words) <= 1:
         return None
@@ -58,6 +62,7 @@ def redact_aya(text, all_texts):
     return None
 
 def generate_bilingual_questions(ayas_df, question_type):
+    random.seed(SEED)
     bilingual_questions = []
     half_length = len(ayas_df) // 2
     include_extra_info = True
@@ -120,6 +125,7 @@ if __name__ == '__main__':
     chapters_file_path = 'resources/chapters-en.json'
     distractors_file_path = 'resources/distractors_not_quranic.json'
 
+    random.seed(SEED)
 
     # Load and prepare data
     quran_df = load_quran_data(quran_file_path)
@@ -156,7 +162,6 @@ if __name__ == '__main__':
     readable_bilingual_missing_text_file_path = 'generated/masked_quranic_text.json'
     readable_bilingual_surah_name_file_path = 'generated/guess_quran_surah_name.json'
     readable_bilingual_surah_type_file_path = 'generated/guess_quran_surah_type.json'
-    # Save the questions to a JSON file
     readable_biligual_questions_mcq_file_path = 'generated/guess_which_text_is_from_quran.json'
 
     output_folder = 'generated'
@@ -176,7 +181,6 @@ if __name__ == '__main__':
 
     with open(readable_biligual_questions_mcq_file_path, 'w', encoding='utf-8') as file:
         json.dump(mcq_questions, file, ensure_ascii=False, indent=4)
-
 
     # Final output paths for each question type
     missing_text_output_jsonl = 'evals/registry/data/quran_eval/masked_quranic_text.jsonl'
