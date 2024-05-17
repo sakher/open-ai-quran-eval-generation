@@ -69,40 +69,34 @@ def generate_bilingual_questions(ayas_df, question_type):
         if question_type == "missing_text":
             question_content_en = f"Fill in the blank of the following Quranic text: (({row['redacted']})) to complete the full verse.{extra_info_en}.  The answer may be one or more words."
             question_content_ar = f"املأ الفراغ في النص القرآني التالي: (({row['redacted']})) لإتمام الآية كاملة.{extra_info_ar}. قد تكون الإجابة عبارة عن كلمة واحدة أو أكثر."
-            ideal_answer = row['missing_section']
-            ideal_answer_ar = row['missing_section']
+            ideal_answer = [row['missing_section']]
+            ideal_answer_ar = [row['missing_section']]
 
         elif question_type == "surah_name":
-            question_content_en = f"Identify the Surah (in Arabic) of the following Quranic text: {row['text']}"
-            question_content_ar = f"حدد اسم السورة للنص القرآني التالي: {row['text']}"
-            ideal_answer = row['name']
-            ideal_answer_ar = row['name']
+            question_content_en = f"Identify the Surah (in Arabic) of the following Quranic text: {row['text']} (Please provide the answer without diacritics but keep hamza and madda)."
+            question_content_ar = f"حدد اسم السورة للنص القرآني التالي: {row['text']} (يرجى تقديم الإجابة بدون تشكيل ولكن احتفظ بالهمزة والمد)."
+            ideal_answer = [row['name'], row['transliteration'], row['translation']]
+            ideal_answer_ar = [row['name'], row['transliteration'], row['translation']]
 
         elif question_type == "surah_type":
-            question_content_en = f"Determine if the Surah of the following Quranic aya text is meccan or madinan: {row['text']} answer only with either 'meccan' or 'madinan'"
-            question_content_ar = f"حدد إذا كانت السورة للنص القرآني التالي مكية أو مدنية: {row['text']} أجب فقط بـ 'مكية' أو 'مدنية'"
-            ideal_answer = row['type']
-            ideal_answer_ar = 'مكية' if row['type'] == 'meccan' else 'مدنية'
+            question_content_en = f"Determine if the Surah of the following Quranic aya text is meccan or madinan: {row['text']} answer only with either 'meccan' or 'madinan' (exactly in small case)."
+            question_content_ar = f"حدد إذا كانت السورة للنص القرآني التالي مكية أو مدنية: {row['text']} أجب فقط بـ 'مكية' أو 'مدنية' (بدون تشكيل)."
+            answer_arabic_translations = ['مكية', 'مكي', 'مكة'] if row['type'] == 'meccan' else ['مدنية', 'مدني', 'المدينة']
+            all_answers = [row['type']] + answer_arabic_translations
+            ideal_answer = all_answers
+            ideal_answer_ar = all_answers
 
-        
         elif question_type == "mcq":
             question_content_en, question_content_ar, correct_label = generate_mcq_questions(row, distractors_list)
-            bilingual_questions.append({
-                "input": [
-                    {"role": "system", "content": question_content_en},
-                    {"role": "user", "content": "Please provide the answer by selecting the correct letter (A, B, C, or D) without any extra commentary"}
-                ],
-                "ideal": correct_label
-            })
-            ideal_answer = correct_label
-            ideal_answer_ar = correct_label
+            ideal_answer = [correct_label]
+            ideal_answer_ar = [correct_label]
 
         # Creating questions in both English and Arabic
         if index < half_length:  # English questions
             bilingual_questions.append({
                 "input": [
                     {"role": "system", "content": question_content_en},
-                    {"role": "user", "content": "Please provide the answer, and ONLY the answer without any extra commentary"}
+                    {"role": "user", "content": "Please provide the answer, and ONLY the answer without any extra commentary" if question_type != "mcq" else "Please provide the answer by selecting the correct letter (A, B, C, or D) without any extra commentary"}
                 ],
                 "ideal": ideal_answer
             })
@@ -110,7 +104,7 @@ def generate_bilingual_questions(ayas_df, question_type):
             bilingual_questions.append({
                 "input": [
                     {"role": "system", "content": question_content_ar},
-                    {"role": "user", "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي"}
+                    {"role": "user", "content": "يرجى تقديم الإجابة. وفقط الإجابة دون أي تعليق إضافي" if question_type != "mcq" else "يرجى تقديم الإجابة عن طريق تحديد الحرف الصحيح (A, B, C, أو D) دون أي تعليق إضافي"}
                 ],
                 "ideal": ideal_answer_ar
             })
@@ -160,8 +154,8 @@ if __name__ == '__main__':
 
     # Save the questions to separate JSON files
     readable_bilingual_missing_text_file_path = 'generated/masked_quranic_text.json'
-    readable_bilingual_surah_name_file_path = 'generated/guess_quran_verse_name.json'
-    readable_bilingual_surah_type_file_path = 'generated/guess_quran_verse_type.json'
+    readable_bilingual_surah_name_file_path = 'generated/guess_quran_surah_name.json'
+    readable_bilingual_surah_type_file_path = 'generated/guess_quran_surah_type.json'
     # Save the questions to a JSON file
     readable_biligual_questions_mcq_file_path = 'generated/guess_which_text_is_from_quran.json'
 
@@ -186,8 +180,8 @@ if __name__ == '__main__':
 
     # Final output paths for each question type
     missing_text_output_jsonl = 'evals/registry/data/quran_eval/masked_quranic_text.jsonl'
-    surah_name_output_jsonl = 'evals/registry/data/quran_eval/guess_quran_verse_name.jsonl'
-    surah_type_output_jsonl = 'evals/registry/data/quran_eval/guess_quran_verse_type.jsonl'
+    surah_name_output_jsonl = 'evals/registry/data/quran_eval/guess_quran_surah_name.jsonl'
+    surah_type_output_jsonl = 'evals/registry/data/quran_eval/guess_quran_surah_type.jsonl'
     mcq_output_jsonl = 'evals/registry/data/quran_eval/guess_which_text_is_from_quran.jsonl'
 
     output_folder = 'evals/registry/data/quran_eval'
